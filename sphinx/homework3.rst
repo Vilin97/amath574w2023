@@ -1,23 +1,18 @@
 
-.. _homework2:
+.. _homework3:
 
 =============================================================
-Homework 2
+Homework 3
 =============================================================
 
-- `hw2.pdf <_static/hw2.pdf>`_ (updated 1/21/23 to include programming
-  problem, and 1/25/23 to fix def'n of Lax-Friedrichs)
+- `hw3.pdf <_static/hw3.pdf>`_ 
 
-The homework is due by 11:00pm PDT on January 26, 2023.  You can turn it in
+The homework is due by 11:00pm PDT on February 2, 2023.  You can turn it in
 up to 24 hours late with a 10% reduction in credit.  
 
-The Jupyter notebook required as a starting point is in the class repository,
-and you can also view a rendered version here:
-
- - `acoustics_godunov.ipynb <_static/acoustics_godunov.html>`_
 
 The latex file for this homework assignment is in the :ref:`class_repos` in the
-directory `$AM574/homeworks/hw2`.  You are encouraged to use latex to do the
+directory `$AM574/homeworks/hw3`.  You are encouraged to use latex to do the
 homework, in which case you might want to start with this file.  There are
 some comments in the file indicating where in add your solutions.
 
@@ -29,5 +24,5 @@ figures.
 
 
 To submit, see the 
-`Canvas page <https://canvas.uw.edu/courses/1611247/assignments/8067058>`_.
+`Canvas page <https://canvas.uw.edu/courses/1611247/assignments/8077994>`_.
 
